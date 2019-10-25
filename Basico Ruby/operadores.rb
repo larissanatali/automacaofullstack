@@ -1,7 +1,5 @@
 # Operadores Matematicos 
 
-puts 'Informe o número 1:'
-
 n1 = 0 
 n2 = 0 
 total = 0 
@@ -26,3 +24,4 @@ v1 = 10
 v2 = 11 
 
 puts v1 > v2 
+
