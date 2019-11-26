@@ -12,3 +12,11 @@ puts 'Repetição com for'
 for item in (0...10)
     puts 'Repetindo a mensagem ' + item.to_s + ' vez(es).'
 end
+
+puts 'For Rails'
+vingadores = ['Ironman', 'Hulk', 'Spiderman', 'Thor'] 
+puts vingadores.class 
+
+vingadores.each do |v|
+    puts v 
+end 
