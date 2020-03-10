@@ -13,7 +13,7 @@ describe 'suites rspec' do
     end 
 
     #Validando a soma e convertendo String 
-    it 'soma de valores com conversao ' do 
+    it 'soma de valores com conversao' do 
         soma = 10 + 5 
         expect(soma.to_s).to eql '15' 
     end 

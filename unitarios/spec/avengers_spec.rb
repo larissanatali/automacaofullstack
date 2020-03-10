@@ -1,3 +1,0 @@
-describe AvengersHeadQuarter do
-    
-end
